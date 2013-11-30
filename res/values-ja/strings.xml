@@ -23,7 +23,7 @@
     <string name="menu_restriction_all">Toggle restrictions</string>
     <string name="menu_usage_all">Toggle filter</string>
     <string name="menu_apply">テンプレを適用</string>
-    <string name="menu_clear">消去</string>
+    <string name="menu_clear">クリア</string>
     <string name="menu_app_launch">アプリを起動</string>
     <string name="menu_app_settings">設定</string>
     <string name="menu_app_store">Playストア</string>
